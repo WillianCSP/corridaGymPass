@@ -1,0 +1,29 @@
+***********  RESULTADO FINAL  ***************
+posicao=1, 38-F.MASSA, VoltasCompletadas=4, tempoTotalCorrida=00:04:11.578, diferencaParaOPrimeiro=00:00
+posicao=2, 2-K.RAIKKONEN, VoltasCompletadas=4, tempoTotalCorrida=00:04:15.153, diferencaParaOPrimeiro=00:00:03.575
+posicao=3, 33-R.BARRICHELLO, VoltasCompletadas=4, tempoTotalCorrida=00:04:16.080, diferencaParaOPrimeiro=00:00:04.502
+posicao=4, 23-M.WEBBER, VoltasCompletadas=4, tempoTotalCorrida=00:04:17.722, diferencaParaOPrimeiro=00:00:06.144
+posicao=5, 15-F.ALONSO, VoltasCompletadas=4, tempoTotalCorrida=00:04:54.221, diferencaParaOPrimeiro=00:00:42.643
+posicao=6, 11-S.VETTEL, VoltasCompletadas=3, tempoTotalCorrida=00:06:27.276, diferencaParaOPrimeiro=00:02:15.698
+
+
+***********  MELHOR VOLTA POR PILOTO  ***************
+data=23:51:14.216, 38-F.MASSA, volta=3, tempo=00:01:02.769, velocidadeMedia=44.334
+data=23:51:18.576, 33-R.BARRICHELLO, volta=3, tempo=00:01:03.716, velocidadeMedia=43.675
+data=23:52:22.120, 2-K.RAIKKONEN, volta=4, tempo=00:01:03.076, velocidadeMedia=44.118
+data=23:52:25.975, 23-M.WEBBER, volta=4, tempo=00:01:04.216, velocidadeMedia=43.335
+data=23:50:37.987, 15-F.ALONSO, volta=2, tempo=00:01:07.011, velocidadeMedia=41.528
+data=23:54:57.757, 11-S.VETTEL, volta=3, tempo=00:01:18.097, velocidadeMedia=35.633
+
+
+***********  MELHOR VOLTA da CORRIDA  ***************
+data=23:51:14.216, 38-F.MASSA, volta=3, tempo=00:01:02.769, velocidadeMedia=44.334
+
+
+***********  VELOCIDADE MEDIA POR PILOTO  ***************
+Media F.MASSA:44.24575
+Media R.BARRICHELLO:43.467999999999996
+Media K.RAIKKONEN:43.627250000000004
+Media M.WEBBER:43.19125
+Media F.ALONSO:38.06625
+Media S.VETTEL:25.745666666666665
